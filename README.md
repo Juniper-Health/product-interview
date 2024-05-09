@@ -1,6 +1,6 @@
 # Juniper Final Round Full Stack Interview
 
-Welcome to the Juniper Final Round Interview! The interview prompt can be accessed [here](https://www.juniperplatform.com/)
+Welcome to the Juniper Final Round Interview! The interview prompt can be accessed [here](https://juniperplatform.notion.site/Product-Programming-Interview-5599d3c1fc6642e39071c4ad569eedf0)
 
 ## Frontend
 The frontend is written in React using `create-react-app`, and we use `npm` for package management.
